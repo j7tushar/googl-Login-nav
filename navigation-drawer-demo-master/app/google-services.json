@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "208802768079",
+    "project_id": "dev-zephyr-140909"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208802768079:android:f9c89dd2de4aa738",
+        "android_client_info": {
+          "package_name": "com.hometech.navigationdrawerdemo.activity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208802768079-jdc05ngfsi81k67fullaa2ptpk7ht3i0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hometech.navigationdrawerdemo.activity",
+            "certificate_hash": "C2053E56EEC763F57A4BE6F177780A1303D112B3"
+          }
+        },
+        {
+          "client_id": "208802768079-pn09aorscjhmpnkd3tkcgtjko488di62.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGhVKjhNosEUT3GRrXcz9LYrzwlnAeRo4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
